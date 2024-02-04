@@ -5,7 +5,7 @@ print(frase)
 frase='Curso em Video Python'
 print(frase[9])
 #ou
-frase='Curso em Vídeo Pytthon'
+frase='Curso em Vídeo Python'
 print(frase[9:14])
 #ou
 frase='Curso em Vídeo Python'
